@@ -13,6 +13,5 @@
 7. [JS exercises on CodeWars](https://github.com/bogutski/js-road-map/blob/master/tasks.md)
 
 8. General Interview Process:
-**Books:**
 * O’Reilly Interviewing Skills by Tim Hindle
 * O’Reilly Job interview success for introverts
