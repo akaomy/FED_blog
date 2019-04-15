@@ -1,4 +1,4 @@
-1. [FED interview handbook](https://github.com/yangshun/front-end-interview-handbook)
+1. [FED interview handbook - HTML, CSS, JS questions](https://github.com/yangshun/front-end-interview-handbook)
 
 2. [Cheatsheet interview prep](https://github.com/yangshun/tech-interview-handbook/blob/master/preparing/cheatsheet.md)
 
