@@ -12,7 +12,9 @@
 
 6. [Questions to ask](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) 
 
-7. [JS exercises on CodeWars](https://github.com/bogutski/js-road-map/blob/master/tasks.md)
+7. JS exercises:
+- [CodeWars](https://github.com/bogutski/js-road-map/blob/master/tasks.md)
+- [Hackerrank 10 days of JS](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 8. General Interview Process:
 * O’Reilly Interviewing Skills by Tim Hindle
