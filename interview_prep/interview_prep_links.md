@@ -15,6 +15,8 @@
 7. JS exercises:
 - [CodeWars](https://github.com/bogutski/js-road-map/blob/master/tasks.md)
 - [Hackerrank 10 days of JS](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [Coderbite](https://coderbyte.com/)
+- [Leetcode](https://leetcode.com/)
 
 8. General Interview Process:
 * O’Reilly Interviewing Skills by Tim Hindle
