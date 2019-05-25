@@ -18,7 +18,7 @@
 - [Coderbite](https://coderbyte.com/)
 - [Leetcode](https://leetcode.com/)
 
-8.[Questions to ask interviewers](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) 
+8. [Questions to ask interviewers](https://github.com/yangshun/tech-interview-handbook/blob/master/non-technical/questions-to-ask.md) 
 
 9. General Interview Process (books):
 * O’Reilly Interviewing Skills by Tim Hindle
