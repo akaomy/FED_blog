@@ -1,1 +1,1 @@
-1. [Long list of js questions and answers](https://github.com/lydiahallie/javascript-questions?)
+1. [Long list of (Advanced) JS questions and answers](https://github.com/lydiahallie/javascript-questions?)
